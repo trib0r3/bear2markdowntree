@@ -1,6 +1,6 @@
 # bear2markdowntree
 
-Convert notes from Bear.app to Markdown tree-structured notes. This script was written for transfering notes frop [Bear](#1) to [Typora](#2), may have some bugs but it worked for me ;)
+Convert notes from Bear.app to Markdown tree-structured notes. This script was written for transfering notes from [Bear][1] to [Typora][2], may have some bugs but it worked for me ;)
 
 ## Prerequirements
 
